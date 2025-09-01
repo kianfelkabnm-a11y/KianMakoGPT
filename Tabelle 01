@@ -3,14 +3,14 @@
 <table style="width: 100%; border-collapse: collapse; font-family: Arial, sans-serif;">
 <thead style="text-align: left;">
 <tr>
-<th style="padding: 8px; border-bottom: 2px solid #333;">Model</th>
+<th style="padding: 8px; border-bottom: 2px solid #333;">Modell</th>
 <th style="padding: 8px; border-bottom: 2px solid #333;"></th>
 </tr>
 </thead>
 <tbody><!-- MODELLBLOCK START SE1500 -->
 <tr style="border-top: 1px solid #ddd;">
 <td style="padding: 8px; font-weight: bold; vertical-align: top;">Spider Farmer SE1500</td>
-<td style="padding: 8px; text-align: right;"><details open="open">
+<td style="padding: 8px; text-align: right;"><details open>
 <summary style="cursor: pointer; color: #007bff; font-weight: normal; text-align: right;">Details anzeigen</summary>
 <div style="margin: 12px 0 0 -181px !important; max-width: 560px; text-align: left;">
 <table style="width: 100%; border-collapse: collapse; font-size: 14px;">
@@ -89,7 +89,7 @@
 <!-- MODELLBLOCK ENDE SE1500 --> <!-- MODELLBLOCK START SE3000 -->
 <tr style="border-top: 1px solid #ddd;">
 <td style="padding: 8px; font-weight: bold; vertical-align: top;">Spider Farmer SE3000</td>
-<td style="padding: 8px; text-align: right;"><details open="open">
+<td style="padding: 8px; text-align: right;"><details open>
 <summary style="cursor: pointer; color: #007bff; font-weight: normal; text-align: right;">Details anzeigen</summary>
 <div style="margin: 12px 0 0 -181px !important; max-width: 560px; text-align: left;">
 <table style="width: 100%; border-collapse: collapse; font-size: 14px;">
@@ -168,7 +168,7 @@
 <!-- MODELLBLOCK ENDE SE3000 --> <!-- MODELLBLOCK START SE4500 -->
 <tr style="border-top: 1px solid #ddd;">
 <td style="padding: 8px; font-weight: bold; vertical-align: top;">Spider Farmer SE4500</td>
-<td style="padding: 8px; text-align: right;"><details open="open">
+<td style="padding: 8px; text-align: right;"><details open>
 <summary style="cursor: pointer; color: #007bff; font-weight: normal; text-align: right;">Details anzeigen</summary>
 <div style="margin: 12px 0 0 -181px !important; max-width: 560px; text-align: left;">
 <table style="width: 100%; border-collapse: collapse; font-size: 14px;">
@@ -247,7 +247,7 @@
 <!-- MODELLBLOCK ENDE SE4500 --> <!-- MODELLBLOCK START SE5000 -->
 <tr style="border-top: 1px solid #ddd;">
 <td style="padding: 8px; font-weight: bold; vertical-align: top;">Spider Farmer SE5000</td>
-<td style="padding: 8px; text-align: right;"><details open="open">
+<td style="padding: 8px; text-align: right;"><details open>
 <summary style="cursor: pointer; color: #007bff; font-weight: normal; text-align: right;">Details anzeigen</summary>
 <div style="margin: 12px 0 0 -181px !important; max-width: 560px; text-align: left;">
 <table style="width: 100%; border-collapse: collapse; font-size: 14px;">
@@ -326,7 +326,7 @@
 <!-- MODELLBLOCK ENDE SE5000 --> <!-- MODELLBLOCK START SE7000 -->
 <tr style="border-top: 1px solid #ddd;">
 <td style="padding: 8px; font-weight: bold; vertical-align: top;">Spider Farmer SE7000</td>
-<td style="padding: 8px; text-align: right;"><details open="open">
+<td style="padding: 8px; text-align: right;"><details open>
 <summary style="cursor: pointer; color: #007bff; font-weight: normal; text-align: right;">Details anzeigen</summary>
 <div style="margin: 12px 0 0 -181px !important; max-width: 560px; text-align: left;">
 <table style="width: 100%; border-collapse: collapse; font-size: 14px;">
@@ -405,7 +405,7 @@
 <!-- MODELLBLOCK ENDE SE7000 --> <!-- MODELLBLOCK START SE1000W -->
 <tr style="border-top: 1px solid #ddd;">
 <td style="padding: 8px; font-weight: bold; vertical-align: top;">Spider Farmer SE1000W</td>
-<td style="padding: 8px; text-align: right;"><details open="open">
+<td style="padding: 8px; text-align: right;"><details open>
 <summary style="cursor: pointer; color: #007bff; font-weight: normal; text-align: right;">Details anzeigen</summary>
 <div style="margin: 12px 0 0 -181px !important; max-width: 560px; text-align: left;">
 <table style="width: 100%; border-collapse: collapse; font-size: 14px;">
@@ -493,10 +493,10 @@
 <th style="padding: 8px; border-bottom: 2px solid #333;"></th>
 </tr>
 </thead>
-<tbody><!-- BLOCK START SE1500 -->
+<tbody><!-- MODELLBLOCK START SE1500 -->
 <tr style="border-top: 1px solid #ddd;">
 <td style="padding: 8px; font-weight: bold; vertical-align: top;">Spider Farmer SE1500</td>
-<td style="padding: 8px; text-align: right;"><details open="open">
+<td style="padding: 8px; text-align: right;"><details open>
 <summary style="cursor: pointer; color: #007bff; font-weight: normal; text-align: right;">Lieferumfang anzeigen</summary>
 <div style="margin: 12px 0 0 -181px !important; max-width: 560px; text-align: left;">
 <ul style="font-size: 14px; margin: 0; padding-left: 20px;">
@@ -506,15 +506,14 @@
 <li>2× Hanging Kits</li>
 <li>1× Yoyo</li>
 <li>1× Daisy Chain Kabel</li>
-<li>0× Driver Hanger</li>
 </ul>
 </div>
 </details></td>
 </tr>
-<!-- BLOCK ENDE SE1500 --> <!-- BLOCK START SE3000 -->
+<!-- MODELLBLOCK ENDE SE1500 --> <!-- MODELLBLOCK START SE3000 -->
 <tr style="border-top: 1px solid #ddd;">
 <td style="padding: 8px; font-weight: bold; vertical-align: top;">Spider Farmer SE3000</td>
-<td style="padding: 8px; text-align: right;"><details open="open">
+<td style="padding: 8px; text-align: right;"><details open>
 <summary style="cursor: pointer; color: #007bff; font-weight: normal; text-align: right;">Lieferumfang anzeigen</summary>
 <div style="margin: 12px 0 0 -181px !important; max-width: 560px; text-align: left;">
 <ul style="font-size: 14px; margin: 0; padding-left: 20px;">
@@ -524,58 +523,52 @@
 <li>2× Hanging Kits</li>
 <li>1× Yoyo</li>
 <li>1× Daisy Chain Kabel</li>
-<li>0× Driver Hanger</li>
 </ul>
 </div>
 </details></td>
 </tr>
-<!-- BLOCK ENDE SE3000 --> <!-- BLOCK START SE4500 -->
+<!-- MODELLBLOCK ENDE SE3000 --> <!-- MODELLBLOCK START SE4500 -->
 <tr style="border-top: 1px solid #ddd;">
 <td style="padding: 8px; font-weight: bold; vertical-align: top;">Spider Farmer SE4500</td>
-<td style="padding: 8px; text-align: right;"><details open="open">
+<td style="padding: 8px; text-align: right;"><details open>
 <summary style="cursor: pointer; color: #007bff; font-weight: normal; text-align: right;">Lieferumfang anzeigen</summary>
 <div style="margin: 12px 0 0 -181px !important; max-width: 560px; text-align: left;">
 <ul style="font-size: 14px; margin: 0; padding-left: 20px;">
 <li>1× Dimmer Box</li>
 <li>1× LED Treiber</li>
 <li>1× Stromkabel</li>
-<li>0× Hanging Kits</li>
 <li>2× Yoyo</li>
 <li>1× Daisy Chain Kabel</li>
-<li>0× Driver Hanger</li>
 </ul>
 </div>
 </details></td>
 </tr>
-<!-- BLOCK ENDE SE4500 --> <!-- BLOCK START SE5000 -->
+<!-- MODELLBLOCK ENDE SE4500 --> <!-- MODELLBLOCK START SE5000 -->
 <tr style="border-top: 1px solid #ddd;">
 <td style="padding: 8px; font-weight: bold; vertical-align: top;">Spider Farmer SE5000</td>
-<td style="padding: 8px; text-align: right;"><details open="open">
+<td style="padding: 8px; text-align: right;"><details open>
 <summary style="cursor: pointer; color: #007bff; font-weight: normal; text-align: right;">Lieferumfang anzeigen</summary>
 <div style="margin: 12px 0 0 -181px !important; max-width: 560px; text-align: left;">
 <ul style="font-size: 14px; margin: 0; padding-left: 20px;">
 <li>1× Dimmer Box</li>
 <li>1× LED Treiber</li>
 <li>1× Stromkabel</li>
-<li>0× Hanging Kits</li>
 <li>2× Yoyo</li>
 <li>1× Daisy Chain Kabel</li>
-<li>0× Driver Hanger</li>
 </ul>
 </div>
 </details></td>
 </tr>
-<!-- BLOCK ENDE SE5000 --> <!-- BLOCK START SE7000 -->
+<!-- MODELLBLOCK ENDE SE5000 --> <!-- MODELLBLOCK START SE7000 -->
 <tr style="border-top: 1px solid #ddd;">
 <td style="padding: 8px; font-weight: bold; vertical-align: top;">Spider Farmer SE7000</td>
-<td style="padding: 8px; text-align: right;"><details open="open">
+<td style="padding: 8px; text-align: right;"><details open>
 <summary style="cursor: pointer; color: #007bff; font-weight: normal; text-align: right;">Lieferumfang anzeigen</summary>
 <div style="margin: 12px 0 0 -181px !important; max-width: 560px; text-align: left;">
 <ul style="font-size: 14px; margin: 0; padding-left: 20px;">
 <li>1× Dimmer Box</li>
 <li>1× LED Treiber</li>
 <li>1× Stromkabel</li>
-<li>0× Hanging Kits</li>
 <li>2× Yoyo</li>
 <li>1× Daisy Chain Kabel</li>
 <li>2× Driver Hanger</li>
@@ -583,17 +576,16 @@
 </div>
 </details></td>
 </tr>
-<!-- BLOCK ENDE SE7000 --> <!-- BLOCK START SE1000W -->
+<!-- MODELLBLOCK ENDE SE7000 --> <!-- MODELLBLOCK START SE1000W -->
 <tr style="border-top: 1px solid #ddd;">
 <td style="padding: 8px; font-weight: bold; vertical-align: top;">Spider Farmer SE1000W</td>
-<td style="padding: 8px; text-align: right;"><details open="open">
+<td style="padding: 8px; text-align: right;"><details open>
 <summary style="cursor: pointer; color: #007bff; font-weight: normal; text-align: right;">Lieferumfang anzeigen</summary>
 <div style="margin: 12px 0 0 -181px !important; max-width: 560px; text-align: left;">
 <ul style="font-size: 14px; margin: 0; padding-left: 20px;">
 <li>1× Dimmer Box</li>
 <li>1× LED Treiber</li>
 <li>1× Stromkabel</li>
-<li>0× Hanging Kits</li>
 <li>2× Yoyo</li>
 <li>1× Daisy Chain Kabel</li>
 <li>2× Driver Hanger</li>
@@ -601,6 +593,6 @@
 </div>
 </details></td>
 </tr>
-<!-- BLOCK ENDE SE1000W --></tbody>
+<!-- MODELLBLOCK ENDE SE1000W --></tbody>
 </table>
 </div>
